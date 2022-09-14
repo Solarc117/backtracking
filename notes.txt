@@ -1,0 +1,2 @@
+- ✅ fix the set/array discrepancy between isValid and the other functions
+- 📌 fix the duplicate solution bug
